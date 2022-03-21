@@ -5,7 +5,7 @@
 * Discord: [TrueColumbo#1686](https://discordapp.com/users/686530340503683135/ "link to Discord profile")
 * Phone: +7(999)630-51-55
 ## About
-<!-- TODO: some information about me -->
+I want to be a Frotend JS developer 
 ## Skills
 * HTML, CSS, JS
 * Git
