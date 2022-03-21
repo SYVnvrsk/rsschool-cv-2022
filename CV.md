@@ -2,7 +2,7 @@
 ## Junior Frontend Developer
 ## Contacts
 * E-mail: syv.nvrsk@gmail.com
-* Discord: TrueColumbo#1686
+* Discord: [TrueColumbo#1686](https://discordapp.com/users/686530340503683135/ "link to Discord profile")
 * Phone: +7(999)630-51-55
 ## About
 <!-- TODO: some information about me -->
@@ -11,7 +11,7 @@
 * Git
 * VS Code
 ## Code examples
-Convert string to camel case KATA from Codewars:
+[Convert string to camel case KATA](https://www.codewars.com/kata/517abf86da9663f1d2000003 "link to Codewars KATA") from Codewars:
 ```
 function toCamelCase(str){
   let answer = '';
